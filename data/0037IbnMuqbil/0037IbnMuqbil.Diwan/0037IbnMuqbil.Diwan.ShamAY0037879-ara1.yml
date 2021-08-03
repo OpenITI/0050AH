@@ -10,5 +10,8 @@
     lines as you see fit; the main goal of this comment section is to have a
     place to record valuable information, which is difficult to formalize
     into the above given categories.
+    NB: check lines of poetry that seem too short: line numbers 634, 673, 804,
+    939, 1102, 1378
+    NB: check lines of poetry that seem too long: line numbers 1241
 90#VERS#DATE#####: YYYY-MM-DD
 90#VERS#ISSUES###: formalized issues, separated with commas
